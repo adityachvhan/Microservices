@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\adity\Downloads\Microservices-Tutorial\Microservices-Tutorial-Series-main\RatingService"/>
+			<item value="C:\Users\adity\Downloads\Microservices-Tutorial\Microservices-Tutorial-Series-main\UserService\UserService"/>
+			<item value="C:\Users\adity\Downloads\Microservices-Tutorial\Microservices-Tutorial-Series-main\HotelService"/>
+			<item value="C:\Users\adity\Downloads\HotelService"/>
+			<item value="D:\Microservices\HotelService"/>
+			<item value="D:\Microservices\HotelService\src"/>
+			<item value="D:\Microservices\RatingService"/>
+			<item value="D:\Microservices\ServiceRegistry"/>
+			<item value="D:\Microservices\UserService"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
